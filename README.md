@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darazik
-I’m interested in DevOps, Cloud Computing.
-I’m currently a student at Bialystok Univeristy of Technology, faculty of CS
+- I’m interested in DevOps, Cloud Computing.
+- I’m currently a student at Bialystok Univeristy of Technology, faculty of CS
 
 
 <!---
