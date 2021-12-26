@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Darazik
 - I’m currently a student at Bialystok Univeristy of Technology, faculty of CS
+- Mainly intrested in system administration and DevOps. 
 
 
 <!---
