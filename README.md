@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub -aka Darazik</h1>
 <h3 align="center">I’m currently a student at Bialystok Univeristy of Technology, faculty of CS. Interested in system administration and DevOps.</h3>
 
-- 🔭 I’m currently working on **Duplicate file handler**
+- 🔭 I’m currently working on **Django ToDo app**
 
 - 🌱 I’m currently learning **Docker, Kubernetes, Jenkins, GitLab CI/CD, Ansible...(basically all most popular DevOps tools :sweat_smile:)**
 
