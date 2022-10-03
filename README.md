@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jakub -aka Darazik</h1>
 <h3 align="center">I’m currently a student at Bialystok Univeristy of Technology, faculty of CS. Interested in system administration and DevOps.</h3>
 
-- 🔭 I’m currently working on **Django ToDo app**
+- 🔭 I’m currently working on **Mobile app**
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Jenkins, GitLab CI/CD, Ansible...(basically all most popular DevOps tools :sweat_smile:)**
+- 🌱 I’m currently learning **Design patterns in Java, Openshift**
 
 <h3 align="left">Connect with me:</h3>
 Darazik#8681 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />
